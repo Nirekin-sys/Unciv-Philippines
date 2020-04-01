@@ -1,6 +1,7 @@
 # Pearl of Asia - Philippines
 Jose Rizal leads the Philippines in Yairm's Unciv.
 ![Preview](https://cdn.discordapp.com/attachments/556615339849416736/694946912125714512/unknown.png)
+![Preview](https://cdn.discordapp.com/attachments/556615339849416736/694956083382452244/unknown.png)
 * Uniques
   * Pearl of Asia [Father Governs Children]
   Food and Culture increased by 50% from friendly City-States

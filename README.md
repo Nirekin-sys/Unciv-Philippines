@@ -17,12 +17,16 @@ Jose Rizal leads the Philippines in Yairm's Unciv.
 
 ### Other Features
 -Complete set of city names native to the Philippines.
+
 -Unique Jose Rizal dialogue, from greeting you to disdaining you, either ripping off from his real-life quotes or stereotyping Filipino sentimentalities.
+
 -Semi-finished symbol-work for the units and nation. Still can't make a good sprite for the Rice Terrace however.
 
 ### Issues
 -Don't have proper FantasyHex sprites for the units and improvements
+
 -Father Governs Children's unique name can't be changed for God knows what reason, I'll ask Yairm later on about this or some other professional modder
+
 -I am devoid of game-sense balance. If any of the units/improvements and uniques feel under/overpowered, please let me know and you can recommend some tips to aid me while you're at it
 
 ---
